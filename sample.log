@@ -1,0 +1,25 @@
+2026-05-16 08:00:01 INFO User "admin" logged in successfully from IP 192.168.1.100
+2026-05-16 08:05:23 INFO User "meena" logged in successfully from IP 192.168.1.101
+2026-05-16 08:30:45 INFO File "report.pdf" accessed by "meena"
+2026-05-16 09:00:12 INFO User "john" logged in successfully from IP 192.168.1.102
+2026-05-16 10:15:33 WARNING Failed login attempt for "admin" from IP 192.168.1.105
+2026-05-16 10:15:34 WARNING Failed login attempt for "admin" from IP 192.168.1.105
+2026-05-16 10:15:35 WARNING Failed login attempt for "admin" from IP 192.168.1.105
+2026-05-16 10:15:36 WARNING Failed login attempt for "admin" from IP 192.168.1.105
+2026-05-16 10:15:37 WARNING Failed login attempt for "admin" from IP 192.168.1.105
+2026-05-16 11:00:00 INFO User "admin" logged in successfully from IP 192.168.1.100
+2026-05-16 02:30:00 WARNING Failed login attempt for "meena" from IP 10.0.0.55
+2026-05-16 02:30:01 WARNING Failed login attempt for "meena" from IP 10.0.0.55
+2026-05-16 02:30:02 WARNING Failed login attempt for "meena" from IP 10.0.0.55
+2026-05-16 14:00:00 INFO User "john" logged in successfully from IP 192.168.1.102
+2026-05-16 14:05:00 ERROR System error detected on server
+2026-05-16 15:00:00 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 15:00:01 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 15:00:02 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 15:00:03 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 15:00:04 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 15:00:05 WARNING Failed login attempt for "john" from IP 10.0.0.99
+2026-05-16 17:00:00 INFO User "meena" logged in successfully from IP 192.168.1.101
+2026-05-16 23:45:00 WARNING Failed login attempt for "admin" from IP 172.16.0.55
+2026-05-16 23:45:01 WARNING Failed login attempt for "admin" from IP 172.16.0.55
+2026-05-16 23:45:02 WARNING Failed login attempt for "admin" from IP 172.16.0.55
